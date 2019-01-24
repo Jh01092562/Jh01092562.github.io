@@ -4,7 +4,7 @@
 
 [lesson5](https://jh01092562.github.io/lesson5/) css practice
 
-[lesson6](https://jh01092562.github.io/lesson6/) head with css
+[lesson6](https://jh01092562.github.io/lesson6/src/) head with css
 
 [lesson7](https://jh01092562.github.io/lesson7/) html+css site without libs 
 
