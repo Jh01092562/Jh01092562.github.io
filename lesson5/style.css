@@ -1,0 +1,74 @@
+body {
+	margin: 0;
+	background-color: #f9f2ec;
+}
+.head {
+	text-align: center;
+	background: url(neko.jpg) center top no-repeat;
+	padding-bottom: 0;
+	background-size: cover;
+	height: 800px;
+}
+.head a {
+	display: inline-block;
+	font-size: 50px;
+	color: #000;
+	margin-top: 20px;
+	width: 400px;
+	border-radius: 15px;
+}
+h1 {
+	margin: 0;
+	font-size: 100px;
+	text-transform: uppercase;
+	text-align: center;
+
+}
+h2 {
+	font-style: italic;
+	font-size: 50px;
+	margin: 0;
+}
+.through {
+	text-decoration: line-through;
+}
+.under {
+	text-decoration: underline;
+}
+.container {
+	width: 80%;
+	margin-left: 10%;
+	padding-left: 15px;
+	padding-right: 25px;
+	border: 1px solid rgba(0, 0, 0, 0.2);
+	border-top: none; 
+}
+hr {
+	margin: 0;
+}
+#chapter-1, #chapter-2, #chapter-3, #chapter-4 {
+	margin-bottom: 100px;
+}
+a:hover {
+	background-color: rgba(255, 198, 179, 0.2);
+}
+#back {
+	text-align: center;
+	color: rgba(0,0,0,0);
+	display: block;
+	position: fixed;
+	height: 70px;
+	width: 100%;
+	background-color: rgba(0,0,0,0);
+	bottom: 0;
+	left: 0;
+	font-size: 100px;
+}
+#back:hover {
+	background-color: rgba(0,0,0,0.2);
+	color: rgba(0,0,0,0.7);
+	transition: 0.2s;
+}
+p {
+	font-size: 25px;
+}

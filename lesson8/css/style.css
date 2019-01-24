@@ -1,0 +1,19 @@
+h1 {
+	text-transform: uppercase;
+	margin: 140px 0;
+}
+.container {
+	border: 1px solid red;
+}
+.feature {
+	height: 200px;
+	text-align: center;
+	position: relative;
+}
+.feature p {
+	position: absolute;
+	width: 100%;
+	bottom: 0;
+	left: 50%;
+	transform: translateX(-50%);
+}
